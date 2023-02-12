@@ -6,3 +6,4 @@ let itemCategory = 'Продукты';
 let itemPrice = 100;
 
 console.log(itemName);
+console.log(itemQuantity * itemPrice);
